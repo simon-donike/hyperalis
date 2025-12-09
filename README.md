@@ -2,12 +2,12 @@
   <img src="images/hyperalis_labs_workmark_full_cropped.png" height="90">
 </p>
 
-# Hyperalis Lab  
+# Hyperalis Labs  
 Accelerating Applied AI for Earth Observation  
 https://hyperalis.com
 
 ## Executive Summary
-Hyperalis Lab enables organizations to adopt cutting-edge AI for Earth observation without requiring internal research teams. Our mission is to translate the latest scientific advances into robust, operational solutions and help companies integrate modern models, workflows and data products directly into their business processes.
+Hyperalis Labs enables organizations to adopt cutting-edge AI for Earth observation without requiring internal research teams. Our mission is to translate the latest scientific advances into robust, operational solutions and help companies integrate modern models, workflows and data products directly into their business processes.
 
 ## Background and Motivation
 AI-driven Earth observation is advancing quickly, but most organizations do not have the in-house expertise needed to keep pace with current research. Deploying high-performance models, curated workflows and scalable data pipelines requires deep experience in remote sensing, computer vision and open-source ecosystem development. Hyperalis was founded by applied scientists with extensive experience delivering production-grade solutions, large research efforts and open-source tools used by international institutions.
