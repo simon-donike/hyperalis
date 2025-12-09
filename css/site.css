@@ -126,6 +126,20 @@ p.lead { color: var(--muted); font-size: 18px; margin: 0 0 24px; }
 .tile::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(5, 6, 10, 0.08) 0%, rgba(5, 6, 10, 0.26) 100%); }
 .tile span { position: absolute; left: 12px; bottom: 12px; font-weight: 600; color: #fdfdfd; }
 
+.form-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: var(--glow);
+}
+
+.form-card .hs-form-frame,
+.form-card iframe {
+  width: 100%;
+  display: block;
+}
+
 .pictogram-grid .tile { padding: 16px 16px 52px; }
 .pictogram-grid .tile img {
   object-fit: contain;
