@@ -126,6 +126,15 @@ p.lead { color: var(--muted); font-size: 18px; margin: 0 0 24px; }
 .tile::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(5, 6, 10, 0.08) 0%, rgba(5, 6, 10, 0.26) 100%); }
 .tile span { position: absolute; left: 12px; bottom: 12px; font-weight: 600; color: #fdfdfd; }
 
+.pictogram-grid .tile { padding: 16px 16px 52px; }
+.pictogram-grid .tile img {
+  object-fit: contain;
+  border: 10px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.02);
+  box-sizing: border-box;
+}
+
 .wordmark {
   margin-bottom: 16px;
   display: inline-block;
