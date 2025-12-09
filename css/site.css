@@ -135,6 +135,11 @@ p.lead { color: var(--muted); font-size: 18px; margin: 0 0 24px; }
 }
 
 .form-card .hs-form-frame,
+.form-card .hs-form-frame * {
+  color: var(--text) !important;
+}
+
+.form-card .hs-form-frame,
 .form-card iframe {
   width: 100%;
   display: block;
